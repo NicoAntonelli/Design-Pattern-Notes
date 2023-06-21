@@ -8,7 +8,8 @@ Easy-to-read interactive notebooks for learning design patterns in software deve
 ## Index
 | # | Topic | Description |
 | - | :---: | :---------: |
-| 00 | [Intro](<00 - Intro.ipynb>) | Design patterns & objectives ||
+| 00 | [Intro](<00 - Intro.ipynb>) | Design patterns & objectives |
+| 01 | [Design Patterns in Software Development](<Software Dev/01 - Design Patterns in Software Development.ipynb>) | General explanation and classification |
 | 02 | [Singleton](<Software Dev/02 - Singleton.ipynb>) | Creational design pattern |
 | 03 | [Factory Method](<Software Dev/03 - Factory Method.ipynb>) | Creational design pattern |
 | 04 | [Builder](<Software Dev/04 - Builder.ipynb>) | Creational design pattern |
