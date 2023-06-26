@@ -5,10 +5,16 @@ Easy-to-read interactive notebooks for learning design patterns in software deve
 1. Download the .NET Coding Pack for VS Code for [Windows](https://aka.ms/dotnet-coding-pack-win) or [macOS](https://aka.ms/dotnet-coding-pack-mac).
 2. Install the [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension.
 
-## Index
-| # | Topic | Description |
-| - | :---: | :---------: |
-| 00 | [Intro](<00 - Intro.ipynb>) | Design patterns & objectives |
+## General Index
+| Type | ## | Topic | Description |
+| :--: | -- | :---: | :---------: |
+| Page | 00 | [Intro](<00 - Intro.ipynb>) | Design patterns & objectives |
+| Folder | -- | [Software Dev](<Software Dev/>) | Pages about patterns in software development |
+| Folder | -- | [Software Architecture](<Software Architecture/>) | Pages about patterns in software architecture |
+
+## Software Dev Index
+| ## | Topic | Description |
+| -- | :---: | :---------: |
 | 01 | [Design Patterns in Software Development](<Software Dev/01 - Design Patterns in Software Development.ipynb>) | General explanation and classification |
 | 02 | [Singleton](<Software Dev/02 - Singleton.ipynb>) | Creational design pattern |
 | 03 | [Factory Method](<Software Dev/03 - Factory Method.ipynb>) | Creational design pattern |
@@ -25,3 +31,8 @@ Easy-to-read interactive notebooks for learning design patterns in software deve
 | 14 | [Template Method](<Software Dev/14 - Template Method.ipynb>) | Behavioral design pattern |
 | 15 | [Iterator](<Software Dev/15 - Iterator.ipynb>) | Behavioral design pattern |
 | 16 | [State](<Software Dev/16 - State.ipynb>) | Behavioral design pattern |
+
+## Software Architecture Index
+| ## | Topic | Description |
+| -- | :---: | :---------: |
+| 01 | [Design Patterns in Software Archicetrue](<Software Architecture/01 - Design Patterns in Software Architecture.ipynb>) | General explanation and classification |
