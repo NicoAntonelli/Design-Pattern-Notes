@@ -38,3 +38,4 @@ Easy-to-read interactive notebooks for learning design patterns in software deve
 | 01 | [Design Patterns in Software Architecture](<Software Architecture/01 - Design Patterns in Software Architecture.ipynb>) | General explanation and classification |
 | 02 | [Client-Server Architecture](<Software Architecture/02 - Client-Server Architecture.ipynb>) | Structural pattern |
 | 03 | [Layered Architecture](<Software Architecture/03 - Layered Architecture.ipynb>) | Structural pattern |
+| 04 | [Component-based Architecture](<Software Architecture/04 - Component-based Architecture.ipynb>) | Structural pattern |
